@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'json'
 require 'hangperson_game'
 
 describe HangpersonGame do
